@@ -8,6 +8,7 @@
     "$kref": "#/ckan/github/genyk1p/TransferDropdownFix",
     "$vref": "#/ckan/ksp-avc",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231953-*",
         "repository": "https://github.com/genyk1p/TransferDropdownFix",
         "bugtracker": "https://github.com/genyk1p/TransferDropdownFix/issues"
     },

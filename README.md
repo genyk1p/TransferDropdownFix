@@ -4,6 +4,8 @@ Vessel names in the closed drop-downs of the [Konstruction](https://github.com/U
 
 Not affiliated with or endorsed by Umbra Space Industries. Konstruction is named here only to say what this mod works with.
 
+Forum thread: https://forum.kerbalspaceprogram.com/topic/231953-112x-transfer-dropdown-fix-012-vessel-names-in-the-konstruction-resource-transfer-window/
+
 ## The problem
 
 The two drop-downs of Konstruction's resource transfer window show no vessel name when closed, not even the default "Select a target...", while the open list has the names. So you cannot see which two vessels are selected.
