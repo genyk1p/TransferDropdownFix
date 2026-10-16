@@ -1,0 +1,8 @@
+{
+	"NAME": "TransferDropdownFix",
+	"URL": "https://raw.githubusercontent.com/genyk1p/TransferDropdownFix/main/GameData/TransferDropdownFix/TransferDropdownFix.version",
+	"DOWNLOAD": "https://github.com/genyk1p/TransferDropdownFix/releases",
+	"VERSION": { "MAJOR": 0, "MINOR": 1, "PATCH": 2, "BUILD": 0 },
+	"KSP_VERSION_MIN": { "MAJOR": 1, "MINOR": 12, "PATCH": 0 },
+	"KSP_VERSION_MAX": { "MAJOR": 1, "MINOR": 12, "PATCH": 99 }
+}
